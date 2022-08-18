@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DeltaExtraction", "DeltaExtraction\DeltaExtraction.dtproj", "{115D84B5-F8E6-4D26-B46C-CD9C73989916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115D84B5-F8E6-4D26-B46C-CD9C73989916}.Development|Default.ActiveCfg = Development
+		{115D84B5-F8E6-4D26-B46C-CD9C73989916}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52EE0D06-2C9D-41D5-AEDC-98F07C376642}
+	EndGlobalSection
+EndGlobal

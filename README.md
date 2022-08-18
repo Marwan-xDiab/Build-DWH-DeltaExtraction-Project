@@ -1,4 +1,4 @@
-# Delta Extraction ETL
+# Build DWH DeltaExtraction Project
 
 ## General Info
 With delta extraction, only the data that has changed since the last extraction is loaded into the DWH. Data that has already been loaded and has not changed is not extracted and does not need to be deleted before a new load.

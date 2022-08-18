@@ -13,6 +13,12 @@ Extract new and updated data from the Employee Table, then move it to the stagin
 - DWH_Employee
 - LogRecord 
 
+## Using ETL Tools
+- SSIS SQL Server Integration Services
+- SQL Server 
+- C# Language 
+
+
 ![staging](https://user-images.githubusercontent.com/90741989/185493553-0f763e7e-caa0-4660-8fbe-805c622ba224.png)
 
 ## Steps 
